@@ -11,7 +11,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping ("/televisions")
-public class TelivisionController {
+public class TelevisionController {
 
     private List<Televisions> television = new ArrayList<>();
 
